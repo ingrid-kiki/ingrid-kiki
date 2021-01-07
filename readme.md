@@ -6,7 +6,9 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
 ### My hobbies are:
  - Soccer :soccer:
  - Guitar :guitar:
- - Videogames: :video_game: 
+ - Videogames: :video_game:
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysMenfredy&theme=buefy&layout=compact)
 
 **Follow me on social media:**
 
