@@ -8,7 +8,7 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
  - Guitar :guitar:
  - Videogames: :video_game:
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysMenfredy&theme=buefy&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysMenfredy&theme=dracula&layout=compact&show_icons=true)
 
 **Follow me on social media:**
 
