@@ -27,7 +27,7 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
 <!--  <summary><b>Stats</b></summary> -->
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=DenysMenfredy&count_private=true&theme=dracula&layout=compact&showicons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysMenfredy&theme=dracula&layout=compact&show_icons=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysMenfredy&theme=dracula&layout=compact&show_icons=true" />
 </div>
 <!--  </details> -->
 <!--  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DenysMenfredy&theme=dracula)](https://github.com/DenysMenfredy/github-contribution-stats/) -->
