@@ -1,9 +1,9 @@
 ## Hi, I'm Denys! :wave:
 I am a Computer Engineering Student in Brazil. I am currently a research fellow at my college, with a line of research on *intelligent agents*, *evolutionary computing*, and *machine learning*.
-### *My main interests are:*
+### My main interests are:
  - Artificial Intelligence :robot:
- - Programming :heart:
-### My hobbies are:
+ - Programming 👨‍💻
+### Hobbies 🚴‍♂️
  - Soccer :soccer:
  - Guitar :guitar:
  - Videogames: :video_game:
