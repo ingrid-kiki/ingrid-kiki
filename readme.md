@@ -1,6 +1,11 @@
 ## Hi, I'm Denys! :wave:
+<a target="blank" href="https://www.linkedin.com/in/denys-menfredy/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a target="blank" href="https://twitter.com/Denys_Menfredy"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a target="blank" href="https://www.instagram.com/denysmenfredy"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a target="blank" href="mailto:denys.menfredy7@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+### About me 🙂
 I am a Computer Engineering Student in Brazil. I am currently a research fellow at my college, with a line of research on *intelligent agents*, *evolutionary computing*, and *machine learning*.
-### My main interests are:
+### My main interests are ❤️
  - Artificial Intelligence :robot:
  - Programming 👨‍💻
 ### Hobbies 🚴‍♂️
@@ -8,19 +13,6 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
  - Guitar :guitar:
  - Videogames: :video_game:
  
-
-<!-- <details> -->
-<!--  <summary><b>Where to find me</b></summary> -->
-### Where to find me 🎯
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Denys_Menfredy)](https://twitter.com/Denys_Menfredy)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denys-menfredy/)](https://www.linkedin.com/in/denys-menfredy/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C74075?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/denysmenfredy/)](https://www.instagram.com/denysmenfredy/) 
-
-**Send me an email if you want to talk to me**
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denys.menfredy7@gmail.com)](mailto:denys.menfredy7@gmail.com/)
-<!-- </details> -->
-
-
 
   ### My GitHub Stats 📊
 <!-- <details> -->
@@ -32,7 +24,7 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
 <!--  </details> -->
 <!--  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DenysMenfredy&theme=dracula)](https://github.com/DenysMenfredy/github-contribution-stats/) -->
 
-### My Skills 🚀
+### Technologies I love and use 🚀
 <!-- <details> -->
 <!--  <summary><b>Skills 🚀</b></summary> -->
  
