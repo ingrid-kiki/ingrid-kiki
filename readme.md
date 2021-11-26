@@ -1,9 +1,16 @@
-## Hi, I'm Denys! :wave:
+<!-- ## Hi, I'm Denys! :wave: -->
+<div align="center">
+<img src="https://media.giphy.com/media/XuP6ZVQDhY9tIzF8S1/giphy.gif" />
+</div>
+<div align="center">
 <a target="blank" href="https://www.linkedin.com/in/denys-menfredy/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a target="blank" href="https://twitter.com/Denys_Menfredy"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a target="blank" href="https://www.instagram.com/denysmenfredy"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a target="blank" href="mailto:denys.menfredy7@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-### About me 🙂
+</div>
+<hr>
+
+## About me 🙂
 I am a Computer Engineering Student in Brazil. I am currently a research fellow at my college, with a line of research on *intelligent agents*, *evolutionary computing*, and *machine learning*.
 ### My main interests are ❤️
  - Artificial Intelligence :robot:
@@ -14,7 +21,7 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
  - Videogames: :video_game:
  
 
-  ### My GitHub Stats 📊
+  ## My GitHub Stats 📊
 <!-- <details> -->
 <!--  <summary><b>Stats</b></summary> -->
  <div>
