@@ -21,6 +21,9 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
  - Videogames: :video_game:
  
 
+## Things I'm writing ✍️ 📓
+ - [Reuse a MongoDB connection with NodeJS](https://dev.to/denysmenfredy/reuse-a-mongodb-connection-with-nodejs-16d)
+
   ## My GitHub Stats 📊
 <!-- <details> -->
 <!--  <summary><b>Stats</b></summary> -->
