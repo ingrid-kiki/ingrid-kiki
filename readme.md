@@ -7,6 +7,7 @@
 <a target="blank" href="https://twitter.com/Denys_Menfredy"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a target="blank" href="https://www.instagram.com/denysmenfredy"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a target="blank" href="mailto:denys.menfredy7@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a target="blank" href="https://dev.to/denysmenfredy"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="48px" height="48px"></a>
 </div>
 <hr>
 
