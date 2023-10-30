@@ -12,7 +12,9 @@
 <hr>
 
 ## About me 🙂
-I am a Computer Engineering Student in Brazil. I am currently a research fellow at my college, with a line of research on *intelligent agents*, *evolutionary computing*, and *machine learning*.
+I am a brazilian full stack developer. I'm also a AI enthusiast with interest in the following fields *intelligent agents*, *evolutionary computing*, and *machine learning*.
+### Education 📚
+- Bachelor's in Computer Engineering 💻
 ### My main interests are ❤️
  - Artificial Intelligence :robot:
  - Programming 👨‍💻
@@ -20,7 +22,6 @@ I am a Computer Engineering Student in Brazil. I am currently a research fellow 
  - Soccer :soccer:
  - Guitar :guitar:
  - Videogames: :video_game:
- 
 
 ## Things I'm writing ✍️ 📓
  - [Reuse a MongoDB connection with NodeJS](https://dev.to/denysmenfredy/reuse-a-mongodb-connection-with-nodejs-16d)
