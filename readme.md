@@ -43,6 +43,7 @@ I am a brazilian full stack developer. I'm also an AI enthusiast with interest i
  <img align="left" alt="Python logo" src="https://img.icons8.com/color/48/000000/python--v1.png" />
  <img align="left" alt="Javascript logo" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
  <img align="left" alt="Node JS logo" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+ <img align="left" alt="Vue JS logo" src="https://img.icons8.com/fluency/48/vuejs.png" />
  <img align="left" alt="React JS logo" src="https://img.icons8.com/office/48/000000/react.png" />
  <img align="left" alt="Tensorflow Logo" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
  <img align="left" alt="PostgreSQL logo" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
