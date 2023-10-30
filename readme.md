@@ -12,7 +12,7 @@
 <hr>
 
 ## About me 🙂
-I am a brazilian full stack developer. I'm also a AI enthusiast with interest in the following fields *intelligent agents*, *evolutionary computing*, and *machine learning*.
+I am a brazilian full stack developer. I'm also an AI enthusiast with interest in the following fields *intelligent agents*, *evolutionary computing*, and *machine learning*.
 ### Education 📚
 - Bachelor's in Computer Engineering 💻
 ### My main interests are ❤️
