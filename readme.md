@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/XuP6ZVQDhY9tIzF8S1/giphy.gif" />
 </div>
 <div align="center">
-<a target="blank" href="https://www.linkedin.com/in/denys-menfredy/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a target="blank" href="https://www.linkedin.com/in/denysmenfredy/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a target="blank" href="https://twitter.com/Denys_Menfredy"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a target="blank" href="https://www.instagram.com/denysmenfredy"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a target="blank" href="mailto:denys.menfredy7@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
@@ -12,7 +12,7 @@
 <hr>
 
 ## About me 🙂
-I am a brazilian full stack developer. I'm also an AI enthusiast with interest in the following fields *intelligent agents*, *evolutionary computing*, and *machine learning*.
+I am a Brazilian full-stack developer. I'm also an AI enthusiast interested in the fields *of intelligent agents*, *evolutionary computing*, and *machine learning*.
 ### Education 📚
 - Bachelor's in Computer Engineering 💻
 ### My main interests are ❤️
