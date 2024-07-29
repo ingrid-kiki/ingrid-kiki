@@ -3,8 +3,10 @@
 <a target="blank" href="https://x.com/ingrid_kiki"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a target="blank" href="mailto:ingrid.nery.mendes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a target="blank" href="https://dev.to/ingrid_kiki"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="48px" height="48px"></a>
+![](https://komarev.com/ghpvc/?username=ingrid-kiki)
 </div>
 <hr>
+
 
 ## About me 🙂
 I'm a brazilian Phd Student in Electrical Engineering. I'm also a ISTQB CTFL 4.0 certified, with an interested in the fields of *AI for games*, *game development* and *serious games*.
@@ -39,3 +41,11 @@ I'm a brazilian Phd Student in Electrical Engineering. I'm also a ISTQB CTFL 4.0
  
  <img align="left" alt="Python logo" src="https://img.icons8.com/color/48/000000/python--v1.png" />
 <!-- </details> -->
+
+# 
+<!-- <details> -->
+<!--  <summary><b>Contador 🚀</b></summary> -->
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ingrid-kiki/count.svg" />
+ </p>
+ <!-- </details> -->
